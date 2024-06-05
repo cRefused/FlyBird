@@ -19,7 +19,7 @@ var msg = {};
 msg.gameTitle = '<span style="color: #777">FlyBird</span>'; 
 msg.gameOver = '<span style="color: red">GAME OVER</span>'; 
 msg.newGame = 'Нажмите "Пробел", чтобы начать игру';
-msg.control = 'Управление уткой: клавиши "Вверх", "Вниз"';
+msg.control = 'Управление уткой: клавиши "Вверх", "Вниз", "Влево", "Вправо"';
 
 
 var bg = {}; // для фона
